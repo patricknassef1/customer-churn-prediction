@@ -64,11 +64,15 @@ python churn_ann.py
 
 # 📈 Results
 
-Accuracy on Test Set: ~XX% (replace with your actual test accuracy)
+Accuracy on Test Set: 86.4% 
 
 Confusion Matrix shows the distribution of correct vs. incorrect predictions.
 
+[[1529   66]
+ [ 206  199]]
+ 
 🔮 Single Prediction Example
+
 
 You can predict a single customer’s churn probability using:
 

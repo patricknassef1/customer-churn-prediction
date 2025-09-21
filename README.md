@@ -16,7 +16,7 @@ Geography, Gender, Credit Score, Age, Balance, Products, Credit Card, Active Mem
 
 ***************************************************************************************************************************
 
-🧠 Model Overview
+# 🧠 Model Overview
 
 Input Preprocessing
 
@@ -43,30 +43,26 @@ Loss: binary_crossentropy
 Epochs: 100
 
 Batch size: 32
+
 ***************************************************************************************************************************
-🚀 How to Run
+
+# 🚀 How to Run
 
 Clone this repository:
 
 git clone https://github.com/yourusername/customer-churn-prediction.git
 cd customer-churn-prediction
 
-
-Install dependencies:
-
-pip install -r requirements.txt
-
-
 Run the notebook:
-
 jupyter notebook churn_ann.ipynb
 
 
 or run the Python script:
-
 python churn_ann.py
+
 ***************************************************************************************************************************
-📈 Results
+
+# 📈 Results
 
 Accuracy on Test Set: ~XX% (replace with your actual test accuracy)
 
